@@ -2,7 +2,7 @@
 
 <hr>
 
-- this repository is for making patterns using C programming and Python language asked in various interviews.
+- this repository is for making patterns using C programming, Java, JavaScript and Python language asked in various interviews.
 
 ## Notice
 
